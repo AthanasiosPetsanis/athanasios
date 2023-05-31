@@ -21,4 +21,5 @@ setuptools.setup(
          "Operating System :: OS Independent",
      ],
      package_data={'': ['*.py']},
+     include_package_data=True,
  )
