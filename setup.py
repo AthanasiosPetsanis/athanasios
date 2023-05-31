@@ -20,6 +20,16 @@ setuptools.setup(
          "License :: None",
          "Operating System :: OS Independent",
      ],
-     package_data={'': ['*.py']},
-     include_package_data=True,
+    #  package_data={'': ['*.py']},
+     py_modules=['General_Functions'],
+     install_requires=[
+        'time',
+        'csv',
+        'numpy',
+        'matplotlib',
+        'os',
+        'statistics',
+        'datetime',
+     ],
+    #  include_package_data=True,
  )
