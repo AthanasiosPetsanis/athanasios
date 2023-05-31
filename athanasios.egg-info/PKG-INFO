@@ -5,6 +5,8 @@ Summary: Some General functions I use that are currently useful. Beta version.
 Home-page: https://github.com/AthanasiosPetsanis/athanasios
 Author: Athanasios Petsanis
 Author-email: athpets8@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: None
 Classifier: Operating System :: OS Independent
@@ -12,3 +14,5 @@ Description-Content-Type: text/markdown
 
 # athanasios
 Some General functions I use that are currently useful. Beta version.
+
+

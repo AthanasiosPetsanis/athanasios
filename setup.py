@@ -20,4 +20,5 @@ setuptools.setup(
          "License :: None",
          "Operating System :: OS Independent",
      ],
+     package_data={'': ['*.py']},
  )
